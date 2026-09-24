@@ -6,61 +6,61 @@ Abaixo você pode visualizar os slides utilizados na defesa do projeto. Clique n
   <summary><b>▶️ Clique aqui para abrir os slides da apresentação</b></summary>
   <br>
   
-  <img src="Slide 1.jpg" alt="Slide 1" width="100%">
+  <img src="Slide1.PNG" alt="Slide 1" width="100%">
   <hr>
-  <img src="Slide 2.jpg" alt="Slide 2" width="100%">
+  <img src="Slide2.PNG" alt="Slide 2" width="100%">
   <hr>
-  <img src="Slide 3.jpg" alt="Slide 3" width="100%">
+  <img src="Slide3.PNG" alt="Slide 3" width="100%">
   <hr>
-  <img src="Slide 4.jpg" alt="Slide 4" width="100%">
+  <img src="Slide4.PNG" alt="Slide 4" width="100%">
   <hr>
-  <img src="Slide 5.jpg" alt="Slide 5" width="100%">
+  <img src="Slide5.PNG" alt="Slide 5" width="100%">
   <hr>
-  <img src="Slide 6.jpg" alt="Slide 6" width="100%">
+  <img src="Slide6.PNG" alt="Slide 6" width="100%">
   <hr>
-  <img src="Slide 7.jpg" alt="Slide 7" width="100%">
+  <img src="Slide7.PNG" alt="Slide 7" width="100%">
   <hr>
-  <img src="Slide 8.jpg" alt="Slide 8" width="100%">
+  <img src="Slide8.PNG" alt="Slide 8" width="100%">
   <hr>
-  <img src="Slide 9.jpg" alt="Slide 9" width="100%">
+  <img src="Slide9.PNG" alt="Slide 9" width="100%">
   <hr>
-  <img src="Slide 10.jpg" alt="Slide 10" width="100%">
+  <img src="Slide10.PNG" alt="Slide 10" width="100%">
   <hr>
-  <img src="Slide 11.jpg" alt="Slide 11" width="100%">
+  <img src="Slide11.PNG" alt="Slide 11" width="100%">
   <hr>
-  <img src="Slide 12.jpg" alt="Slide 12" width="100%">
+  <img src="Slide12.PNG" alt="Slide 12" width="100%">
   <hr>
-  <img src="Slide 13.jpg" alt="Slide 13" width="100%">
+  <img src="Slide13.PNG" alt="Slide 13" width="100%">
   <hr>
-  <img src="Slide 14.jpg" alt="Slide 14" width="100%">
+  <img src="Slide14.PNG" alt="Slide 14" width="100%">
   <hr>
-  <img src="Slide 15.jpg" alt="Slide 15" width="100%">
+  <img src="Slide15.PNG" alt="Slide 15" width="100%">
   <hr>
-  <img src="Slide 16.jpg" alt="Slide 16" width="100%">
+  <img src="Slide16.PNG" alt="Slide 16" width="100%">
   <hr>
-  <img src="Slide 17.jpg" alt="Slide 17" width="100%">
+  <img src="Slide17.PNG" alt="Slide 17" width="100%">
   <hr>
-  <img src="Slide 18.jpg" alt="Slide 18" width="100%">
+  <img src="Slide18.PNG" alt="Slide 18" width="100%">
   <hr>
-  <img src="Slide 19.jpg" alt="Slide 19" width="100%">
+  <img src="Slide19.PNG" alt="Slide 19" width="100%">
   <hr>
-  <img src="Slide 20.jpg" alt="Slide 20" width="100%">
+  <img src="Slide20.PNG" alt="Slide 20" width="100%">
   <hr>
-  <img src="Slide 21.jpg" alt="Slide 21" width="100%">
+  <img src="Slide21.PNG" alt="Slide 21" width="100%">
   <hr>
-  <img src="Slide 22.jpg" alt="Slide 22" width="100%">
+  <img src="Slide22.PNG" alt="Slide 22" width="100%">
   <hr>
-  <img src="Slide 23.jpg" alt="Slide 23" width="100%">
   <hr>
-  <img src="Slide 24.jpg" alt="Slide 24" width="100%">
+  <img src="Slide23.PNG" alt="Slide 23" width="100%">
   <hr>
-  <img src="Slide 25.jpg" alt="Slide 25" width="100%">
+  <img src="Slide24.PNG" alt="Slide 24" width="100%">
   <hr>
-  <img src="Slide 26.jpg" alt="Slide 26" width="100%">
+  <img src="Slide25.PNG" alt="Slide 25" width="100%">
   <hr>
-  <img src="Slide 27.jpg" alt="Slide 27" width="100%">
+  <img src="Slide26.PNG" alt="Slide 26" width="100%">
   <hr>
-  <img src="Slide 28.jpg" alt="Slide 28" width="100%">
+  <img src="Slide27.PNG" alt="Slide 27" width="100%">
+  <hr>
+  <img src="Slide28.PNG" alt="Slide 28" width="100%">
   
 </details>
-
